@@ -105,48 +105,48 @@ plt.figure(figsize=(12, 10))
 
 plt.subplot(2, 3, 1)
 plt.imshow(cv2.cvtColor(image, cv2.COLOR_BGR2RGB))
-print("SANTHOSH KUMAR A")
-print("212224230250")
+print("NITHEESH KUMAR B")
+print("212224230189")
 plt.title("Original")
 plt.axis("off")
 ```
 ```
 plt.subplot(2, 3, 2)
 plt.imshow(sobel, cmap='gray')
-print("SANTHOSH KUMAR A")
-print("212224230250")
+print("NITHEESH KUMAR B")
+print("212224230189")
 plt.title("Sobel")
 plt.axis("off")
 ```
 ```
 plt.subplot(2, 3, 3)
 plt.imshow(prewitt, cmap='gray')
-print("SANTHOSH KUMAR A")
-print("212224230250")
+print("NITHEESH KUMAR B")
+print("212224230189")
 plt.title("Prewitt")
 plt.axis("off")
 ```
 ```
 plt.subplot(2, 3, 4)
 plt.imshow(roberts, cmap='gray')
-print("SANTHOSH KUMAR A")
-print("212224230250")
+print("NITHEESH KUMAR B")
+print("212224230189")
 plt.title("Roberts")
 plt.axis("off")
 ```
 ```
 plt.subplot(2, 3, 5)
 plt.imshow(laplacian, cmap='gray')
-print("SANTHOSH KUMAR A")
-print("212224230250")
+print("NITHEESH KUMAR B")
+print("212224230189")
 plt.title("Laplacian")
 plt.axis("off")
 ```
 ```
 plt.subplot(2, 3, 6)
 plt.imshow(canny, cmap='gray')
-print("SANTHOSH KUMAR A")
-print("212224230250")
+print("NITHEESH KUMAR B")
+print("212224230189")
 plt.title("Canny")
 plt.axis("off")
 ```
